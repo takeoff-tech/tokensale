@@ -1,0 +1,16 @@
+{
+  "whitelistAdminAddress":"0xd2A3...",
+  "multiSigAddresses": [
+    "0x455...",
+    "0x9fD...",
+    "0x922..."
+  ],
+  "multiSigRequired":2,
+  "openingDate":"2018-07-01T00:00:00+0000",
+  "closingDate":"2018-08-12T23:59:59+0000",
+  "initialRate":16500,
+  "finalRate":14500,
+  "limitEther":5,
+  "largeContribThreshold":10,
+  "largeContribPercentage":110
+}
